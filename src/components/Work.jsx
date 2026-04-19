@@ -13,10 +13,10 @@ export default function Work() {
             link: 'https://github.com/LahiruSWelagedara/smart-job-finder-mobile-app',
         },
         {
-            name: 'Login/Signup',
+            name: 'Trip Explorer',
             icon: './assets/work-3.png',
             description: 'Website',
-            link: 'https://github.com/LahiruSWelagedara/Login-Signup',
+            link: 'https://github.com/LahiruSWelagedara/TripExplorer',
         },
         {
             name: 'Travel Website',
