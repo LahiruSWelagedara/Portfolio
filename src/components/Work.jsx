@@ -27,6 +27,7 @@ export default function Work() {
             featured: true
         },
         {
+<<<<<<< HEAD
             title: 'Smart Job Finder',
             category: 'Mobile',
             year: '2025',
@@ -36,6 +37,12 @@ export default function Work() {
             technologies: ['React Native', 'Node.js', 'MySQL', 'REST APIs'],
             github: 'https://github.com/LahiruSWelagedara/smart-job-finder-mobile-app',
             featured: false
+=======
+            name: 'Trip Explorer',
+            icon: './assets/work-3.png',
+            description: 'Website',
+            link: 'https://github.com/LahiruSWelagedara/TripExplorer',
+>>>>>>> db3b5466770cf940ffca0c12bb0a4422afb8327c
         },
         {
             title: 'Movie Finder',
